@@ -1,2 +1,2 @@
 def hello_world():
-    return "Die Tasten klappern, Ideen sprühen,\r\nProbleme lösen, Fehler mühen.\r\nDoch am Ende, wenn es läuft,\r\nIst es das, was uns erfreut."
+    return "Die Tasten klappern, Ideen sprühen, Probleme lösen, Fehler mühen. Doch am Ende, wenn es läuft, Ist es das, was uns erfreut."
