@@ -2,9 +2,18 @@
 
 ## Python Grundlagen
 Um mehrzeilige Texte auszugeben, kann man vereinfacht den auszugebenden Text in drei Anführungszeichen setzen.  
-Bsp.: `print("""Ich kam,`  
+
+Bsp.:  
+`print("""Ich kam,`  
 `sah,`  
 `und siegte!""")`  
+
+oder
+
+`print('''Ich kam,`  
+`sah,`  
+`und siegte!''')`  
+
 **ACHTUNG:** Achten Sie auf Leerzeichen. Der auszugebende Text nach der ersten Zeile darf nicht eingerückt werden, wenn er in der Ausgabe auch nicht eingerückt angezeigt werden soll.
 
 ## Aufgabe
